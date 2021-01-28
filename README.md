@@ -4,6 +4,8 @@
 Файлы с обработкой данных: 
 
 SQLite.ipynb  - импорт данных
+SQLite_base.ipynb  - обработка данных
+med_word_sorted.csv - сортированный список слов.
 
 NewPreprocessing1.ipynb - обработка собранных сведений
 
